@@ -11,22 +11,22 @@
 ![](https://komarev.com/ghpvc/?username=rangingfx&style=for-the-badge&color=3B82F6)
 
 <a href="https://rangingfx.com">
-<img src="https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/_Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="mailto:info@rangingfx.com">
-<img src="https://img.shields.io/badge/📩_Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/_Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/923121700872">
-<img src="https://img.shields.io/badge/💬_WhatsApp-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/_WhatsApp-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# ✨ About RanginGFX
+#  About RanginGFX
 
 <div align="center">
 
@@ -48,20 +48,20 @@ From branding systems to scalable cloud infrastructure, RanginGFX combines creat
 
 ---
 
-# 🚀 Services
+#  Services
 
 <table>
 <tr>
 <td width="50%">
 
-## 🎨 Branding & Identity
+##  Branding & Identity
 Professional logo systems, visual language, typography, brand strategy, and scalable identity systems built for modern businesses.
 
 </td>
 
 <td width="50%">
 
-## 💻 Web Development
+##  Web Development
 High-performance websites using WordPress, Shopify, React, and modern frontend/backend technologies.
 
 </td>
@@ -70,14 +70,14 @@ High-performance websites using WordPress, Shopify, React, and modern frontend/b
 <tr>
 <td width="50%">
 
-## 🧠 UI / UX Design
+##  UI / UX Design
 User-focused interfaces, dashboards, mobile apps, wireframes, and interactive experiences optimized for conversions.
 
 </td>
 
 <td width="50%">
 
-## 📈 SEO & Marketing
+##  SEO & Marketing
 Technical SEO audits, growth optimization, speed improvements, and digital strategies for measurable results.
 
 </td>
@@ -86,14 +86,14 @@ Technical SEO audits, growth optimization, speed improvements, and digital strat
 <tr>
 <td width="50%">
 
-## ☁️ Hosting & Cloud
+##  Hosting & Cloud
 Managed hosting, CDN optimization, Cloudflare integration, domain management, and enterprise-grade infrastructure.
 
 </td>
 
 <td width="50%">
 
-## ⚡ Performance Optimization
+##  Performance Optimization
 Core Web Vitals optimization, caching systems, image compression, and lightning-fast page experiences.
 
 </td>
@@ -136,7 +136,6 @@ Core Web Vitals optimization, caching systems, image compression, and lightning-
 <img src="https://img.shields.io/badge/React-0B0F19?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -148,7 +147,7 @@ Core Web Vitals optimization, caching systems, image compression, and lightning-
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
@@ -176,7 +175,7 @@ Core Web Vitals optimization, caching systems, image compression, and lightning-
 
 ---
 
-# 📈 Contribution Activity
+#  Contribution Activity
 
 <div align="center">
 
@@ -186,7 +185,7 @@ Core Web Vitals optimization, caching systems, image compression, and lightning-
 
 ---
 
-# 💼 Featured Expertise
+#  Featured Expertise
 
 <div align="center">
 
@@ -202,20 +201,20 @@ Core Web Vitals optimization, caching systems, image compression, and lightning-
 
 ---
 
-# 🌍 Connect With RanginGFX
+#  Connect With RanginGFX
 
 <div align="center">
 
 <a href="https://rangingfx.com">
-<img src="https://img.shields.io/badge/🌐_Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/_Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="mailto:info@rangingfx.com">
-<img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/923121700872">
-<img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/rangingfx">
@@ -234,14 +233,14 @@ Core Web Vitals optimization, caching systems, image compression, and lightning-
 
 ---
 
-# 🤝 Ready to Build Something Exceptional?
+#  Ready to Build Something Exceptional?
 
 <div align="center">
 
 ### Let’s create digital experiences that elevate your brand.
 
 <a href="mailto:info@rangingfx.com">
-<img src="https://img.shields.io/badge/🚀_Start_A_Project-2563EB?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/_Start_A_Project-2563EB?style=for-the-badge&logo=rocket&logoColor=white"/>
 </a>
 
 </div>
@@ -252,7 +251,7 @@ Core Web Vitals optimization, caching systems, image compression, and lightning-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B0F19,50:3B82F6,100:7C3AED"/>
 
-### © RanginGFX — Crafted For Brands That Want To Stand Out
+### © RanginGFX — Your Digital Partner
 
 <sub>Premium Design • Scalable Development • High Performance Infrastructure</sub>
 
